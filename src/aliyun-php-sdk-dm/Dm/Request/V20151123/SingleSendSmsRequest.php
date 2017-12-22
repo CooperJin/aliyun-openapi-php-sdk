@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Dm\Request\V20151123;
+namespace Aliyun\Dm\Request\V20151123;
 
 class SingleSendSmsRequest extends \RpcAcsRequest
 {

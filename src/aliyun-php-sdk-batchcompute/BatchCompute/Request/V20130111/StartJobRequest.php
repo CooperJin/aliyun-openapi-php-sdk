@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace BatchCompute\Request\V20130111;
+namespace Aliyun\BatchCompute\Request\V20130111;
 
 class StartJobRequest extends \RoaAcsRequest
 {

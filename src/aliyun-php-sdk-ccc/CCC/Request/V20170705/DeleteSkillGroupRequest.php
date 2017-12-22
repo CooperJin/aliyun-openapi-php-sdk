@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace CCC\Request\V20170705;
+namespace Aliyun\CCC\Request\V20170705;
 
 class DeleteSkillGroupRequest extends \RpcAcsRequest
 {

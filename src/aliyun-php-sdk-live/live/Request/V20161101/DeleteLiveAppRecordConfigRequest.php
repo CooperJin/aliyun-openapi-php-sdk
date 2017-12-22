@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace live\Request\V20161101;
+namespace Aliyun\live\Request\V20161101;
 
 class DeleteLiveAppRecordConfigRequest extends \RpcAcsRequest
 {

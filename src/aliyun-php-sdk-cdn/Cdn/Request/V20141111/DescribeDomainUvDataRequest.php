@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Cdn\Request\V20141111;
+namespace Aliyun\Cdn\Request\V20141111;
 
 class DescribeDomainUvDataRequest extends \RpcAcsRequest
 {

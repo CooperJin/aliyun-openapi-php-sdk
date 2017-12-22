@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Dds\Request\V20151201;
+namespace Aliyun\Dds\Request\V20151201;
 
 class ModifyReplicaDescriptionRequest extends \RpcAcsRequest
 {

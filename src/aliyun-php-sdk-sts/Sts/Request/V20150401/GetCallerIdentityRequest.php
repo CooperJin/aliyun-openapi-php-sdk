@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Sts\Request\V20150401;
+namespace Aliyun\Sts\Request\V20150401;
 
 class GetCallerIdentityRequest extends \RpcAcsRequest
 {

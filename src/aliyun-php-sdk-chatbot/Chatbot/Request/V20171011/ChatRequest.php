@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Chatbot\Request\V20171011;
+namespace Aliyun\Chatbot\Request\V20171011;
 
 class ChatRequest extends \RpcAcsRequest
 {

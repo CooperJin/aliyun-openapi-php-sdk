@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace CloudPhoto\Request\V20170711;
+namespace Aliyun\CloudPhoto\Request\V20170711;
 
 class ListTagsRequest extends \RpcAcsRequest
 {

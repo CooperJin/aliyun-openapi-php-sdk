@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Mts\Request\V20140618;
+namespace Aliyun\Mts\Request\V20140618;
 
 class DeactivateMediaWorkflowRequest extends \RpcAcsRequest
 {

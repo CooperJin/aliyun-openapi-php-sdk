@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace ARMS4FINANCE\Request\V20171130;
+namespace Aliyun\ARMS4FINANCE\Request\V20171130;
 
 class ARMSQueryDataSetRequest extends \RpcAcsRequest
 {

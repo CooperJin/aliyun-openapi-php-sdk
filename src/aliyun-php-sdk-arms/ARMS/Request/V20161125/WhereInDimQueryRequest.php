@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace ARMS\Request\V20161125;
+namespace Aliyun\ARMS\Request\V20161125;
 
 class WhereInDimQueryRequest extends \RpcAcsRequest
 {

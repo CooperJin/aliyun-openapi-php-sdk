@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Iot\Request\V20170420;
+namespace Aliyun\Iot\Request\V20170420;
 
 class CreateProductRequest extends \RpcAcsRequest
 {

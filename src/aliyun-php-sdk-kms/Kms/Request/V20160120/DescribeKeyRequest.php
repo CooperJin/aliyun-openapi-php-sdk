@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Kms\Request\V20160120;
+namespace Aliyun\Kms\Request\V20160120;
 
 class DescribeKeyRequest extends \RpcAcsRequest
 {

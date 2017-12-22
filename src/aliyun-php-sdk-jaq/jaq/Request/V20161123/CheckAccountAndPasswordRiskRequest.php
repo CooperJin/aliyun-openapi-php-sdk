@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace jaq\Request\V20161123;
+namespace Aliyun\jaq\Request\V20161123;
 
 class CheckAccountAndPasswordRiskRequest extends \RpcAcsRequest
 {

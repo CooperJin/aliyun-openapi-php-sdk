@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Market\Request\V20151101;
+namespace Aliyun\Market\Request\V20151101;
 
 class DescribeLicenseRequest extends \RpcAcsRequest
 {

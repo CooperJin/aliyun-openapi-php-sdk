@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Vpc\Request\V20160428;
+namespace Aliyun\Vpc\Request\V20160428;
 
 class CreateRouterInterfaceRequest extends \RpcAcsRequest
 {

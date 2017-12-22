@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace R_kvstore\Request\V20150101;
+namespace Aliyun\R_kvstore\Request\V20150101;
 
 class CreateInstanceRequest extends \RpcAcsRequest
 {

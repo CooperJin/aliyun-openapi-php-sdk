@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Alidns\Request\V20150109;
+namespace Aliyun\Alidns\Request\V20150109;
 
 class UpdateDNSSLBWeightRequest extends \RpcAcsRequest
 {

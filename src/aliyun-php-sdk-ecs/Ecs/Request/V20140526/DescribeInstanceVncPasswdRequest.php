@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Ecs\Request\V20140526;
+namespace Aliyun\Ecs\Request\V20140526;
 
 class DescribeInstanceVncPasswdRequest extends \RpcAcsRequest
 {

@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Domain\Request\V20160511;
+namespace Aliyun\Domain\Request\V20160511;
 
 class SaveTaskForSubmittingDomainNameCredentialRequest extends \RpcAcsRequest
 {

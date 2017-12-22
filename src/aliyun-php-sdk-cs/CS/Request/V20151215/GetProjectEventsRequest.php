@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace CS\Request\V20151215;
+namespace Aliyun\CS\Request\V20151215;
 
 class GetProjectEventsRequest extends \RoaAcsRequest
 {

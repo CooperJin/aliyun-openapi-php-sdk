@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Slb\Request\V20140515;
+namespace Aliyun\Slb\Request\V20140515;
 
 class SetLoadBalancerStatusRequest extends \RpcAcsRequest
 {

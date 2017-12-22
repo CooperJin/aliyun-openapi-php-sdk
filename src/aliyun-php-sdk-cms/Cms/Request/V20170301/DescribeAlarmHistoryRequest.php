@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Cms\Request\V20170301;
+namespace Aliyun\Cms\Request\V20170301;
 
 class DescribeAlarmHistoryRequest extends \RpcAcsRequest
 {
@@ -121,7 +121,7 @@ class DescribeAlarmHistoryRequest extends \RpcAcsRequest
 	}
 
 	public function setNamespace($namespace) {
-		$this->namespace = $namespace;
+		$this->namespace Aliyun\= $namespace;
 		$this->queryParameters["Namespace"]=$namespace;
 	}
 

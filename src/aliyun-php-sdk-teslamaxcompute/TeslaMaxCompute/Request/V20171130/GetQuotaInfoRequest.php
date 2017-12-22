@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace TeslaMaxCompute\Request\V20171130;
+namespace Aliyun\TeslaMaxCompute\Request\V20171130;
 
 class GetQuotaInfoRequest extends \RpcAcsRequest
 {

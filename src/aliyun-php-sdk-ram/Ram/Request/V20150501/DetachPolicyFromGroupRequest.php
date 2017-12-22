@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Ram\Request\V20150501;
+namespace Aliyun\Ram\Request\V20150501;
 
 class DetachPolicyFromGroupRequest extends \RpcAcsRequest
 {

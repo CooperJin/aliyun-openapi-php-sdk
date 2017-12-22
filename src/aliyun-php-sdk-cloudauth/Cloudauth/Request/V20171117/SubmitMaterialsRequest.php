@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Cloudauth\Request\V20171117;
+namespace Aliyun\Cloudauth\Request\V20171117;
 
 class SubmitMaterialsRequest extends \RpcAcsRequest
 {

@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Rds\Request\V20140815;
+namespace Aliyun\Rds\Request\V20140815;
 
 class RemoveTagsFromResourceRequest extends \RpcAcsRequest
 {

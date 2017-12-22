@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Ess\Request\V20140828;
+namespace Aliyun\Ess\Request\V20140828;
 
 class DescribeScheduledTasksRequest extends \RpcAcsRequest
 {

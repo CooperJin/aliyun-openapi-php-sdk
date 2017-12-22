@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Sas_api\Request\V20170705;
+namespace Aliyun\Sas_api\Request\V20170705;
 
 class GetAccountProfileRequest extends \RpcAcsRequest
 {

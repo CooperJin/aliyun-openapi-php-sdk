@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Cms\Request\V20170301;
+namespace Aliyun\Cms\Request\V20170301;
 
 class ListContactGroupRequest extends \RpcAcsRequest
 {

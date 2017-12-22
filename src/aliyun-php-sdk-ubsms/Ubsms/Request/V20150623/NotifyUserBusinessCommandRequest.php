@@ -17,7 +17,7 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-namespace Ubsms\Request\V20150623;
+namespace Aliyun\Ubsms\Request\V20150623;
 
 class NotifyUserBusinessCommandRequest extends \RpcAcsRequest
 {
