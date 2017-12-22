@@ -1,6 +1,7 @@
 {
   "name": "cooperjin/aliyun-openapi-php-sdk",
   "description": "aliyun api package",
+  "license": "MIT",
   "authors": [
     {
       "name": "cooperjin",
@@ -14,5 +15,6 @@
     "psr-4":{
       "Aliyun\\":"src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
