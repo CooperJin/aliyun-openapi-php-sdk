@@ -1,0 +1,18 @@
+{
+  "name": "cooperjin/aliyun-openapi-php-sdk",
+  "description": "aliyun api package",
+  "authors": [
+    {
+      "name": "cooperjin",
+      "email": "cooper@grdoc.org"
+    }
+  ],
+  "require": {
+    "php":">=5.4"
+  },
+  "autoload":{
+    "psr-4":{
+      "Aliyun\\":"src"
+    }
+  }
+}
